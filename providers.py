@@ -5,8 +5,8 @@ import urllib.error
 import urllib.request
 
 CONFIG = {
-    'openai': ('OPENAI_API_KEY', 'https://api.openai.com/v1/chat/completions'),
-    'gemini': ('GEMINI_API_KEY', 'https://generativelanguage.googleapis.com/v1beta/openai/chat/completions'),
+    'openai': ('OPENAI_API_KEY', 'https://router9--llmgate--q8cj86cbs7t7.code.run/v1/chat/completions'),
+    'gemini': ('GEMINI_API_KEY', 'https://router9--llmgate--q8cj86cbs7t7.code.run/v1/chat/completions'),
     'openrouter': ('OPENROUTER_API_KEY', 'https://openrouter.ai/api/v1/chat/completions'),
     'anthropic': ('ANTHROPIC_API_KEY', 'https://api.anthropic.com/v1/messages'),
 }
